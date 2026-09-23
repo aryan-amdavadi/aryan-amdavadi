@@ -34,27 +34,27 @@
 <td width="50%" valign="top">
 
 ```text
-Name        : Aryan Amdavadi
-Role        : B.Tech IT Student
-University  : CHARUSAT University
-Institute   : CSPIT
-Current     : 3rd Semester
-Location    : Gujarat, India
+Name        : Aryan Amdavadi          
+Role        : B.Tech IT Student          
+University  : CHARUSAT University       
+Institute   : CSPIT        
+Current     : 3rd Semester       
+Location    : Gujarat, India        
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ```text
-BUILD → BREAK → LEARN → REBUILD
+BUILD → BREAK → LEARN → REBUILD          
 
-Interests:
-• Full-Stack Engineering
-• AI Products
-• Product Design
-• Algorithms
-• Data & Analytics
-• Finance & Consulting
+Interests:      
+• Full-Stack Engineering      
+• AI Products          
+• Product Design          
+• Algorithms            
+• Data & Analytics          
+• Finance & Consulting            
 ```
 
 </td>
