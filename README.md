@@ -315,18 +315,6 @@ News application built around external news data and a focused frontend experien
 
 ---
 
-<h2 align="center">⌁ SMART INDIA HACKATHON</h2>
-
-<p align="center">
-  <b>Team: RoadNotTaken</b>
-</p>
-
-<p align="center">
-  Working on software-prototype development and product engineering for Smart India Hackathon 2026.
-</p>
-
----
-
 <h2 align="center">⌁ LEARNING MODE</h2>
 
 ```text
